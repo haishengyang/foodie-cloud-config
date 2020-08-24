@@ -6,6 +6,6 @@ maridb:
 # 功能开关 - 开启或关闭注册功能
 userService:
   registration:
-    disabled: true 
+    disabled: true
 
 # actuator
